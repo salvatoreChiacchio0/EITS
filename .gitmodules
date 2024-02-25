@@ -1,0 +1,6 @@
+[submodule "ing-sftw-eits-fe"]
+	path = ing-sftw-eits-fe
+	url = https://github.com/salvatoreChiacchio0/ing-sftw-eits-fe
+[submodule "ing-sftw-eits-be"]
+	path = ing-sftw-eits-be
+	url = https://github.com/salvatoreChiacchio0/ing-sftw-eits-be
